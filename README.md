@@ -1,4 +1,4 @@
-### HR Analytics & Workforce Insights – Power BI
+### Test Automation Framework for Municipality Management System (Test Automation Framework for Municipality Management System)
 
 ## Overview
 This project delivers an executive-level HR Analytics dashboard using Power BI. It integrates multiple HR data sources to provide real-time insights into attrition, hiring, and performance KPIs, reducing reporting cycles from weeks to minutes.
@@ -55,7 +55,7 @@ It consolidates multiple HR data sources to provide real-time visibility into wo
 ### 🗂️ Repository Structure
 
 ```
-hr-analytics-workforce-insights-powerbi/
+Test Automation Framework for Municipality Management System/
 │
 ├── data/
 │   ├── raw/
